@@ -1,0 +1,5 @@
+src/main/resources/key.txt
+.idea
+gradle
+.gradle
+out/
